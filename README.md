@@ -4,4 +4,4 @@ The Flower Shop Database Management System serves as a vital tool for retail flo
 
 #### Entity Relationship Diagram
 
-![ER Diagram](images/ER_diagram.png)
+![ER Diagram](images/ER.png)
